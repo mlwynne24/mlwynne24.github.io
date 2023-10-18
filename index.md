@@ -11,7 +11,7 @@
 [Extracting Trading Signals from Limit Order Book Market Data](/pdf/sample_presentation.pdf)
 
 ---
-#### Comparison of Various Machine Learning Models for Predicting Hourly Energy Usage of a Power Plant
+[Comparison of Various Machine Learning Models for Predicting Hourly Energy Usage of a Power Plant](http://example.com/)
 
 ---
 
