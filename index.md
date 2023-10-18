@@ -1,34 +1,35 @@
-## Portfolio
+## Data Science, Analytics & Engineering Projects
 
 ---
 
-### Category Name 1 
+### Machine Learning Projects
 
-[Project 1 Title](/sample_page)
+[Predicting Long-term Stock Price Movements for all North American Publicly-listed Stocks](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Extracting Trading Signals from Limit Order Book Market Data](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Comparison of Various Machine Learning Models for Predicting Factory Output](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Information Visualisation Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Identifying Key Demographic Features of UK Immigrants](http://example.com/)
+- [Analysing Global Child Malnourishment](http://example.com/)
+- [Key Performance Indicators](http://example.com/)
+- [Identifying the Best Technology ETFs for 2023](http://example.com/)
 
 ---
 
+### Software Development & Data Engineering Projects
 
-
+- [Building a Secure, Resilient, and Scalable Cloud-native Architecture using AWS Cloud](http://example.com/)
+- [Building Tic Tac Toe from Scratch](http://example.com/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
