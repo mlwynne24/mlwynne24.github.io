@@ -4,11 +4,11 @@
 
 ### Machine Learning Projects
 
-[Long-term Stock Selection using Random Forest and LSTM Models for Fundamental Analysis](/sample_page)
+[Long-term Stock Selection using Random Forest and LSTM Models for Fundamental Analysis](/pdf/Long-term Stock Selection using Random Forest and LSTM Models for Fundamental Analysis.pdf)
 <img src="images/restricted_performance.png?raw=true"/>
 
 ---
-[Extracting Trading Signals from Limit Order Book Market Data](/pdf/sample_presentation.pdf)
+[Extracting Trading Signals from Limit Order Book Market Data](/pdf/Extracting Trading Signals from Limit Order Book Market Data.pdf)
 
 ---
 [Comparison of Various Machine Learning Models for Predicting Hourly Energy Usage of a Power Plant](http://example.com/)
