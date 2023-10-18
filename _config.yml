@@ -3,8 +3,6 @@ logo: "/images/profile_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   An innovative, hardworking team player with a can-do attitude and passion for data science and machine learning. Committed to driving success for clients and colleagues. Relishes new challenges and opportunities to exceed expectations and develop new skills.
   <br><br>
-  Please find details about my MSc Data Science and work projects here and my LinkedIn profile at the link below.
-  <br><br>
   <a href="https://www.linkedin.com/in/morgan-wynne-379ab6187/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
