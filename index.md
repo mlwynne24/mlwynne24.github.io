@@ -4,7 +4,7 @@
 
 ### Machine Learning Projects
 
-[Predicting Long-term Stock Price Movements for all North American Publicly-listed Stocks](/sample_page)
+[Long-term Stock Selection using Random Forest and LSTM Models for Fundamental Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
