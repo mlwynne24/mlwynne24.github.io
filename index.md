@@ -91,8 +91,10 @@ Constructed a scalable, secure, and resilient word counting application in AWS C
 ---
 #### Building Squares Game from Scratch using OOP Principles and only Basic Python Libraries
 
-
+Programmed a Squares game to be played in the command line using Object Oriented Programming (OOP) principles and using only basic Python libraries. The game included extensive error handling and several play modes, including a smart computer mode.
+<br><br>
+Please click [here]() to view the github repository.
+<br><br>
+<img src="images/squares.png?raw=true"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
