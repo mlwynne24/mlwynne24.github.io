@@ -46,7 +46,7 @@ Please click [here](https://github.com/mlwynne24/Comparing-ML-Model-Performance-
 
 #### [Identifying Key Demographic Features of UK Immigrants](http://example.com/)
 
-This project used 2011 census data and Tableau to create a tool for Home Office officials and NGOs to analyse the UK immigrant population. The tool visualises how 30 key demographic features (collected by ONS) vary across the UK immigrant population by the country an immigrant arrived from and the year of their arrival.
+This project used 2011 census data, t-Stochastic Neighbourhood Embedding, and Tableau to create a tool for Home Office officials and NGOs to analyse the UK immigrant population. The tool visualises how 30 key demographic features (collected by ONS) vary across the UK immigrant population by the country an immigrant arrived from and the year of their arrival.
 <br><br>
 Please click [here](/files/UK%20Immigrant%20Analysis.twbx) to download the packaged Tableau workbook.
 <br><br>
