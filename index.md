@@ -45,6 +45,8 @@ Please click [here](https://github.com/mlwynne24/Comparing-ML-Model-Performance-
 ### Information Visualisation Projects
 
 #### [Identifying Key Demographic Features of UK Immigrants](http://example.com/)
+
+This project used 2011 census data to analyse how 30 key demographic features (collected by ONS) vary across the UK immigrant population by the country an immigrant arrived from and the year of their arrival.
 <br><br>
 <img src="images/immigrant_analysis_1.png?raw=true"/>
 <img src="images/Immigrant_analysis_2.png?raw=true"/>
