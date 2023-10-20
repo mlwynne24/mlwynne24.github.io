@@ -89,11 +89,11 @@ Constructed a scalable, secure, and resilient word counting application in AWS C
 <img src="images/architecture_diagram.vpd.png?raw=true"/>
 
 ---
-#### Building Squares Game from Scratch using OOP Principles and only Basic Python Libraries
+#### [Squares Game from Scratch using OOP Principles and only Basic Python Libraries](https://github.com/mlwynne24/squares/)
 
 Programmed a Squares game to be played in the command line using Object Oriented Programming (OOP) principles and using only basic Python libraries. The game included extensive error handling and several play modes, including a smart computer mode.
 <br><br>
-Please click [here]() to view the github repository.
+Please click [here](https://github.com/mlwynne24/squares/) to view the github repository.
 <br><br>
 <img src="images/squares.png?raw=true"/>
 
