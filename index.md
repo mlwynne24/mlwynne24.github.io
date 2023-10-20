@@ -33,7 +33,6 @@ I completed various NLP coursework projects during my MSc that involved creating
 
 <!-- end of the list -->
 
-<br><br>
 <img src="images/BERT_sentiment_classifier.png?raw=true"/>
 
 ---
@@ -66,7 +65,6 @@ This project uses the principles of information visualisation to analyse the glo
 
 <!-- end of the list -->
 
-<br><br>
 Please click [here](/files/Global%20Child%20Malnourishment%20Analysis.twbx) to download the packaged Tableau workbook.
 <br><br>
 <img src="images/child_malnourishment_1.png?raw=true"/>
