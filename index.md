@@ -53,7 +53,7 @@ Please click [here](/files/UK%20Immigrant%20Analysis.twbx) to download the packa
 <img src="images/Immigrant_analysis_2.png?raw=true"/>
 
 ---
-#### [Analysing Global Child Malnourishment](http://example.com/)
+#### [Analysing Global Child Malnourishment](/files/Global%20Child%20Malnourishment%20Analysis.twbx)
 
 This project uses the principles of information visualisation to analyse the global child malnourishment data provided by WHO. It enables the user to answer three pre-specified questions/tasks:
  - In which countries has child malnutrition improved over the period and in which countries has malnutrition got worse?
@@ -67,11 +67,8 @@ Please click [here](/files/Global%20Child%20Malnourishment%20Analysis.twbx) to d
 ---
 #### [Key Performance Indicators](http://example.com/)
 
----
-#### [Identifying the Best Technology ETFs for 2023](http://example.com/)
 
 ---
-
 ### Software Development & Data Engineering Projects
 
 - [Building a Secure, Resilient, and Scalable Cloud-native Architecture using AWS Cloud](http://example.com/)
