@@ -47,7 +47,7 @@ Please click [here](https://github.com/mlwynne24/Comparing-ML-Model-Performance-
 #### [Identifying Key Demographic Features of UK Immigrants](http://example.com/)
 <br><br>
 <img src="images/immigrant_analysis_1.png?raw=true"/>
-<img src="images/immigrant_analysis_2.png?raw=true"/>
+<img src="images/Immigrant_analysis_2.png?raw=true"/>
 
 ---
 #### [Analysing Global Child Malnourishment](http://example.com/)
