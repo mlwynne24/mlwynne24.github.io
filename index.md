@@ -59,6 +59,7 @@ This project uses the principles of information visualisation to analyse the glo
  - In which countries has child malnutrition improved over the period and in which countries has malnutrition got worse?
  - Is there a link between wealth and child malnutrition?
  - Show the values on a world map with information on both 0-1 years and 2-5 year appropriately presented.
+<br><br>
 Please click [here](/files/Global%20Child%20Malnourishment%20Analysis.twbx) to download the packaged Tableau workbook.
 <br><br>
 <img src="images/child_malnourishment_1.png?raw=true"/>
