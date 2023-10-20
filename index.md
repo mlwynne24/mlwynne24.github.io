@@ -30,6 +30,8 @@ I completed various NLP coursework projects during my MSc that involved creating
  - Tweet sentiment classification (FF Neural Network)
  - Question answering (pre-trained transformer TinyBERT model)
  - Poem sentiment classification (fine-tuned transformer TinyBERT model with classification head)
+<br><br>
+<img src="images/BERT_sentiment_classifier.png?raw=true"/>
 
 ---
 #### [Comparison of Various Machine Learning Models for Predicting Hourly Energy Usage of a Power Plant](http://example.com/)
