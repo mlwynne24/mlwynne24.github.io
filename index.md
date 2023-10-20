@@ -20,6 +20,17 @@ This was a 13-week university group project supported by the HSBC Artificial Int
 Please click [here](https://github.com/mlwynne24/HSBC-Limit-Order-Book-Data-Project-) to view the github repository, or [here](pdf/Extracting%20Trading%20Signals%20from%20Limit%20Order%20Book%20Market%20Data.pdf) to view the full PDF.
 
 ---
+#### Various Natural Language Processing Projects
+<br>
+I completed various NLP coursework projects during my MSc that involved creating NLP pre-processing pipelines and applying a whole range of probabilistic and discriminative ML models; from traditional models like Naive Bayes and Hidden Markov Models to state-of-the-art neural networks like LSTM and transformer-based LLMs. Tasks included:
+ - Financial news sentiment classification (Multinomial Naive Bayes)
+ - Social media posts topic modelling (Latent Dirichlet Allocation)
+ - Named entity recognition for identifying genes in scientific documents (Conditional Random Field)
+ - Tweet sentiment classification (FF Neural Network)
+ - Question answering (pre-trained transformer TinyBERT model)
+ - Poem sentiment classification (fine-tuned transformer TinyBERT model with classification head)
+
+---
 #### [Comparison of Various Machine Learning Models for Predicting Hourly Energy Usage of a Power Plant](http://example.com/)
 
 ---
