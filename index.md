@@ -13,7 +13,11 @@ Please click [here](https://github.com/mlwynne24/Long-Term-Stock-Selection) to v
 <img src="images/restricted_performance.png?raw=true"/>
 
 ---
-#### [Extracting Trading Signals from Limit Order Book Market Data](/pdf/Extracting_Trading_Signals_from_Limit_Order_Book_Market_Data.pdf)
+#### [HSBC University Group Project - Using Machine Learning Methods to Extract Trading Signals from Limit Order Book Market Data](https://github.com/mlwynne24/HSBC-Limit-Order-Book-Data-Project-)
+
+This was a 13-week university group project supported by the HSBC Artificial Intelligence team. We were challenged to use machine learning algorithms to generate profits in active trading using level-2 limit order book data. Our execution compared the performance of an highly interpretable decision tree model using handcrafted, interpretable features (e.g. Limit order book imbalance, 10-second order flow imbalance, etc.) to make predictions with a more complex Convolutional Neural Network (CNN) model that used unsupervised feature extraction. We created an innovative way to overcome problems associated with market illiquidity and both models generated consistently profitable outcomes in 2 weeks of active trading.
+<br><br>
+Please click [here](https://github.com/mlwynne24/HSBC-Limit-Order-Book-Data-Project-) to view the github repository, or [here](pdf/Extracting%20Trading%20Signals%20from%20Limit%20Order%20Book%20Market%20Data.pdf) to view the full PDF.
 
 ---
 #### [Comparison of Various Machine Learning Models for Predicting Hourly Energy Usage of a Power Plant](http://example.com/)
