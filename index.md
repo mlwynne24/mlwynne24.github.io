@@ -71,7 +71,7 @@ Please click [here](/files/Global%20Child%20Malnourishment%20Analysis.twbx) to d
 <img src="images/child_malnourishment_2.png?raw=true"/>
 
 ---
-#### [Key Performance Indicators](http://example.com/)
+#### [London School of English - Key Performance Indicators](http://example.com/)
 
 
 ---
