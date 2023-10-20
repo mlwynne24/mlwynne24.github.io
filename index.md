@@ -44,10 +44,17 @@ Please click [here](https://github.com/mlwynne24/Comparing-ML-Model-Performance-
 
 ### Information Visualisation Projects
 
-- [Identifying Key Demographic Features of UK Immigrants](http://example.com/)
-- [Analysing Global Child Malnourishment](http://example.com/)
-- [Key Performance Indicators](http://example.com/)
-- [Identifying the Best Technology ETFs for 2023](http://example.com/)
+---
+#### [Identifying Key Demographic Features of UK Immigrants](http://example.com/)
+
+---
+#### [Analysing Global Child Malnourishment](http://example.com/)
+
+---
+#### [Key Performance Indicators](http://example.com/)
+
+---
+#### [Identifying the Best Technology ETFs for 2023](http://example.com/)
 
 ---
 
