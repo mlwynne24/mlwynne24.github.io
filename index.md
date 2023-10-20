@@ -20,7 +20,7 @@ This was a 13-week university group project supported by the HSBC Artificial Int
 Please click [here](https://github.com/mlwynne24/HSBC-Limit-Order-Book-Data-Project-) to view the github repository, or [here](pdf/Extracting%20Trading%20Signals%20from%20Limit%20Order%20Book%20Market%20Data.pdf) to view the full PDF.
 
 ---
-#### Various Natural Language Processing Projects
+#### [Various Natural Language Processing Projects](https://github.com/mlwynne24/Various-NLP-Projects/)
 
 I completed various NLP coursework projects during my MSc that involved creating NLP pre-processing pipelines and applying a whole range of probabilistic and discriminative ML models; from traditional models like Naive Bayes and Hidden Markov Models to state-of-the-art neural networks like LSTM and transformer-based LLMs. Tasks included:
 
@@ -34,7 +34,11 @@ I completed various NLP coursework projects during my MSc that involved creating
 <img src="images/BERT_sentiment_classifier.png?raw=true"/>
 
 ---
-#### [Comparison of Various Machine Learning Models for Predicting Hourly Energy Usage of a Power Plant](http://example.com/)
+#### [Comparison of Various Machine Learning Models for Predicting Hourly Energy Usage of a Power Plant](https://github.com/mlwynne24/Comparing-ML-Model-Performance-on-Regression-Task/)
+
+This project compared the performances of a Random Forest and Multi-Layer Perceptron to that of a baseline univariate linear regression model for predicting the energy usage of a power plant. Cross-validation was used to optimise model hyperparameters and the performance of each model was evaluated using R-squared and RMSE.
+<br><br>
+Please click [here](https://github.com/mlwynne24/Comparing-ML-Model-Performance-on-Regression-Task/) to view the github repository containing the jupyter notebook, or [here](/pdf/Predicting%20Energy%20Usage%20of%20a%20Power%20Plant.pdf) to view the full PDF.
 
 ---
 
