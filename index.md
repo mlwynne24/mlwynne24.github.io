@@ -71,8 +71,13 @@ Please click [here](/files/Global%20Child%20Malnourishment%20Analysis.twbx) to d
 <img src="images/child_malnourishment_2.png?raw=true"/>
 
 ---
-#### [London School of English - Key Performance Indicators](http://example.com/)
+#### [London School of English - Key Performance Indicators](/pdf/LSE%20September%20Monthly%20KPIs%20Report.pdf)
 
+I worked closely with the senior management team at the London School of English to understand the Key Performance Indicators (KPIs) that drive their business. Over several months, I developed a comprehensive process for streamlining data from the company databases and creating a monthly report that is distributed to the board and senior management team.
+<br><br>
+Please click [here](/pdf/LSE%20September%20Monthly%20KPIs%20Report.pdf) to download the document for September.
+<br><br>
+<img src="images/Nationalities%20DB_Sept.png?raw=true"/>
 
 ---
 ### Software Development & Data Engineering Projects
