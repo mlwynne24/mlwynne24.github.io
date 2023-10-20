@@ -82,8 +82,16 @@ Please click [here](/pdf/LSE%20September%20Monthly%20KPIs%20Report.pdf) to downl
 ---
 ### Software Development & Data Engineering Projects
 
-- [Building a Secure, Resilient, and Scalable Cloud-native Architecture using AWS Cloud](http://example.com/)
-- [Building Tic Tac Toe from Scratch](http://example.com/)
+#### Building a Secure, Resilient, and Scalable Cloud-native Architecture using AWS Cloud
+
+Constructed a scalable, secure, and resilient word counting application in AWS Cloud that stored documents, processed them using queues and messages, and stored results in an Athena database.
+<br><br>
+<img src="images/architecture_diagram.vpd.png?raw=true"/>
+
+---
+#### Building Squares Game from Scratch using OOP Principles and only Basic Python Libraries
+
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
